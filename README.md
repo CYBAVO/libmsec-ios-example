@@ -21,4 +21,4 @@
   * `https://bitbucket.org/cybavo/Specs_512.git` if using >= Xcode 11.2
    
 6. Run ```pod install``` to install all dependencies.
-7. Open ```CYBAVOMsecExample.xcworkspace``` in xcode.
+7. Open ```{{your project name}}.xcworkspace``` in xcode.
