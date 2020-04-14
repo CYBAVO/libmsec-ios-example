@@ -1,11 +1,7 @@
 # CYBAVO Device Security Example
 
-## Features
-- isJailBroken: is device jail-broken
-- isEmulator: is device an emulator
-- isDebuggingEnabled: is app debugging
-
 ## Project setup
+
 1. In ~/.ssh/ create a file called config with contents based on this:
     ```
     Host bitbucket.org
@@ -22,3 +18,13 @@
    
 6. Run ```pod install``` to install all dependencies.
 7. Open ```{{your project name}}.xcworkspace``` in xcode.
+
+
+## Property references
+
+Property      | Description
+--------------|-----------------------------
+isJailBroken                 | Is device jail-broken.
+isEmulator                   | Is device an emulator.
+isDebuggingEnabled           | Is app debugging.
+
