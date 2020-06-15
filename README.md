@@ -13,8 +13,7 @@
 3. Create a Xcode project.
 4. Run ```pod init``` to add Pods to your Xcode project.
 5. Edit `Podfile`, add `source 'https://github.com/CocoaPods/Specs.git'` and
-  * `https://bitbucket.org/cybavo/Specs_501.git` if using Xcode 10.2.1, Xcode 10.3
-  * `https://bitbucket.org/cybavo/Specs_512.git` if using >= Xcode 11.2
+  `https://bitbucket.org/cybavo/Specs_512.git`
    
 6. Run ```pod install``` to install all dependencies.
 7. Open ```{{your project name}}.xcworkspace``` in xcode.
